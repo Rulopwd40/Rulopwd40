@@ -1,4 +1,7 @@
+<h2>My Portfolio</h2>
+<p>You can check out my portfolio <a href="https://rulopwd40.github.io/portfolio/" target="_blank">here</a>.</p>
 
+---
 
 <p><em>A University Student at <a href="https://www.frsf.utn.edu.ar/">Universidad Tecnológica Nacional</a>, majoring in Information Systems Engineering. 😎</br>
 </em></p>
@@ -30,10 +33,7 @@ const aboutMe = {
 
 
 ---
-<h2>My Portfolio</h2>
-<p>You can check out my portfolio <a href="https://rulopwd40.github.io/portfolio/" target="_blank">here</a>.</p>
 
----
 
 
 ⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
