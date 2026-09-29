@@ -2,31 +2,9 @@
 
 <p>You can check out my portfolio <a href="https://rulopwd40.github.io/portfolio/" target="_blank">here</a>.</p>
 <br></br>
-
 <h2>About Me</h2>
 <p><em>I'm University Student at <a href="https://www.frsf.utn.edu.ar/">Universidad Tecnológica Nacional</a>, majoring in Information Systems Engineering. 😎</br>
 </em></p>
-
-
-```javascript
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Typescript, HTML, CSS, Java, CSharp,C++],
-   technologies: {
-      frontEnd: {
-         js: ["Angular"],
-         css: ["SCSS"]
-      },
-      backEnd: {
-         java: ["Spring","Hibernate"],
-         csharp: ["Asp.net Core"],
-      },
-      databases: ["PostgreSQL", "SQLite", "mySQL"],
-   },
-   currentOccupation: ["third year student, open for job opportunities"],
-   challenge: "I'm working towards being able to play Master of Puppets in acoustic guitar",
-};
-```
 </br></br>
 <h2>💻 My Stats 💻</h2>
 
